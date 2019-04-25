@@ -11,9 +11,10 @@ I love coffee, conversational in ASL, a writer (screenwriter, fiction) Actor, Di
 3. Its beautiful..
 
 I am a big country music fan. One of my favorite bands are [Lady Antebellum](https://www.ladyantebellum.com/). This band's song, *Compass* awlays makes me cry. My favorite line is as follows: 
->So let your heart sweetheart, be your compass when your lost. 
+>So let your heart sweetheart, be your compass when your lost. >
+
 Everytime I hear that song, it just makes me smile.  Here is an image of her so you can see how beatufiful she is. 
-[Harper and I](https://www.facebook.com/photo.php?fbid=10214873012878610&set=picfp.1225727617&type=3&theater{:target="_blank"}) 
+[Harper and I](https://www.facebook.com/photo.php?fbid=10214873012878610&set=picfp.1225727617&type=3&theater"target="_blank")
 
 \ backslash
 
