@@ -55,5 +55,5 @@ Instagram | lovemesweetly
 So far, this is what I have done..
 - [X] Edited this document
 - [X] Stare into the abyss
-- [X] At five I am going to solve world hunger..don't tell anyone..
+- [X] solve world hunger..don't tell anyone..
 - [x] Wrestle with my self loathing...
