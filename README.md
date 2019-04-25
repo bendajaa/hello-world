@@ -27,14 +27,18 @@ He's a nice guy, a little bit of a 🧙 but a good dude. :smile: :metal:
 I have a small secret..well, it's not a *big secret*. I am a big Taylor Swift fan. She is just amazing..like..Wow. 
 
 
+## My Social Media output
+Below is a list of my social media contact.
 
-
-
-
+Type of Media | Contact
+------------- | -------
+Facebook | thebenda
+twitter | @imbest
+Instagram | lovemesweetly
 
 # Assignment Completion 
-
+So far, this is what I have done..
 - [X] Edited this document
-- [] stare into the abyss
+- [] Stare into the abyss
 - [] At five I am going to solve world hunger..don't tell anyone..
 - [x] Wrestle with my self loathing...
