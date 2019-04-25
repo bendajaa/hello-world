@@ -39,8 +39,8 @@ I remember when I started to code, it was not good. My code was simple and just 
 
 </body>
 </html>
-
 ```
+Thankfully, I have learned so much over the last two years at UNI. Mostly coming from doing it myself, and part from helping others. 
 
 ## My Social Media output
 Below is a list of my social media contact.
