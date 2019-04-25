@@ -12,7 +12,9 @@ I love coffee, conversational in ASL, a writer (screenwriter, fiction) Actor, Di
 
 I am a big country music fan. One of my favorite bands are [Lady Antebellum](https://www.ladyantebellum.com/). This band's song, *Compass* awlays makes me cry. My favorite line is as follows: 
 >So let your heart sweetheart, be your compass when your lost. 
-Everytime I hear that song, it just makes me smile. 
+Everytime I hear that song, it just makes me smile.  Here is an image of her so you can see how beatufiful she is. 
+[Harper and I](/data/photo/harp.jpg)
+
 \ backslash
 
 ## why this assignment is importnat. 
