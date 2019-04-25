@@ -21,8 +21,3 @@ Everytime I hear that song, it just makes me smile.  Here is an image of her so 
 
 Well, as you all know, we **HAD** to do this for @manicsparkle who thinks we need to know such things..and I agree, (Darn it). 
 He's a nice guy, a little bit of a 🧙 but a good dude. :smile:
- 
-
-
-
-#1github-flavored-markdown#1defunkt/github-flavored-markdown#1
