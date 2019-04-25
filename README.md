@@ -18,4 +18,4 @@ Everytime I hear that song, it just makes me smile.
 ## why this assignment is importnat. 
 
 Well, as you all know, we **HAD** to do this for @manicsparkle who thinks we need to know such things..and I agree, (Darn it). 
-He's a nice guy, a little bit of a :mage: but a good dude. 
+He's a nice guy, a little bit of a 🧙 but a good dude. :smile:
